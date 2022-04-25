@@ -1,5 +1,5 @@
 .cover__background {
-    height: calc((100%-96px) * 0.625);
+    height: calc((100vw - 96px) * 0.625);
     width: 100%;
     object-fit: cover;
 }
