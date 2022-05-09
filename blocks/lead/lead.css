@@ -1,6 +1,5 @@
 .lead {
     padding: 56px 148px 0;
-    overflow: hidden;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
